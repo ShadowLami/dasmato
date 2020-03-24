@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica;
+}
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(./header-img.jpeg);
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+span {
+    font-weight: bold;
+    color: blue;
+}
+.springgreen {
+    background-color: mediumspringgreen;
+}
+.lightcoral {
+    background-color: lightcoral;
+}
+.skyblue {
+    background-color: skyblue;
+}
